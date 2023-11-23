@@ -26,8 +26,8 @@ Python Library Management: Develop a CLI system in 4 weeks. Create classes for B
 1. Clone the repository:
 
 ```sh
-git clone https://gitlab1a.prod.eu-west-1.aws.clickatell.com/andile.khumalo/rad-gp-c23-g2.git
-cd rad-gp-c23-g2
+git clone https://github.com/d-langelihlekhumalo/python-library-management-system.git
+cd python-library-management-system
 ```
 
 2. Install the tabulate module | to display database responses in table format
